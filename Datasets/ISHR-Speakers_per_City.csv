@@ -1,5 +1,6 @@
 ﻿city,state,country,lat,long,speakers,text_position,color,
 Alberta,AB,Canada,55.00,-115.00,1,top right,#b3bada,
+Ottawa,ON,Canada, 45.424721,-75.695000,2,top,#1f78b4,
 Vancouver,BC,Canada,49.246292,-123.116226,2,top,#e31a1c,
 Winnipeg,MB,Canada,49.895077,-97.138451,2,top left,#fdb462,
 Halifax,NS,Canada,44.65107,-63.582687,1,top center,#fb8072,
