@@ -1,4 +1,4 @@
-comparison,half-life,group
+comparison,half_life,group
 OS_vs_Ctrl,42.06883626,group_1
 OS_vs_Ctrl,39.68096981,group_1
 OS_vs_Ctrl,38.86661324,group_1
@@ -11288,4 +11288,5 @@ RS_vs_OS,0.755730756,group_2
 RS_vs_OS,0.747769499,group_2
 RS_vs_OS,0.560118934,group_2
 RS_vs_OS,0.555189968,group_2
+
 RS_vs_OS,0.531592907,group_2
